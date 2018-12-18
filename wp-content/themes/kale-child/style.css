@@ -1,0 +1,28 @@
+/*
+Theme Name: Kale Child
+Theme URI: http://example.com/kale-child/
+Description: Kale chile theme!
+Author: Austin McCracken
+Author URI: http://austinmccracken.com/
+Template: kale
+Version: 1.0.0
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: kale-child
+Tags: one-column, two-columns, three-columns, right-sidebar, grid-layout, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-images,footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, food-and-drink, rtl-language-support
+*/
+
+/* --- Removing Tagline --- */
+.tagline p{
+    display:none;
+}
+
+/* --- Adding indent to center logo text --- */
+.header-logo-text {
+    text-indent: 10px;
+}
+
+/* --- Removing footer tagline --- */
+.footer-copyright {
+    display: none;
+}

@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://107.23.249.198
+Data file = /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ashe/inc/about/import/ashe-demo.xml
+Widget file = /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ashe/inc/about/import/ashe-widgets.wie
+Customizer file = /opt/bitnami/apps/wordpress/htdocs/wp-content/themes/ashe/inc/about/import/ashe-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Text - No Title - Imported
+null-instagram-feed - Instagram - Site does not support widget
+wysija - Subscribe - Site does not support widget
+Tag Cloud - No Title - Imported
+
+Sidebar Alt : 
+
+Text - No Title - Imported
+Search - No Title - Imported
+fbw_id - FEED ON FACEBOOK - Site does not support widget
+recent-posts-widget-with-thumbnails - Recent Posts - Site does not support widget
+
+Footer Widgets : 
+
+recent-posts-widget-with-thumbnails - Recent Posts - Site does not support widget
+null-instagram-feed - Instagram - Site does not support widget
+Text - Banner Ads - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
