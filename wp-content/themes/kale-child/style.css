@@ -26,3 +26,8 @@ Tags: one-column, two-columns, three-columns, right-sidebar, grid-layout, flexib
 .footer-copyright {
     display: none;
 }
+
+/* --- Removing background color to banner --- */
+.internal-banner:before {
+    opacity: 0;
+}
